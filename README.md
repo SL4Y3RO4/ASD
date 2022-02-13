@@ -1,4 +1,4 @@
-# ASD
+
 <html><head>
 	<title>AimBooster</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
